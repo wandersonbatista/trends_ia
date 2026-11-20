@@ -1,0 +1,7 @@
+{
+  "modelo": "gemini-3.5-flash",
+  "temperatura": 0.2,
+  "max_output_tokens": 500,
+  "timeout_ms": 15000,
+  "instrucao_sistema": "Analise o texto curto fornecido e extraia as informações principais (tipo de texto, intenção e dados relevantes) de forma clara e objetiva."
+}
